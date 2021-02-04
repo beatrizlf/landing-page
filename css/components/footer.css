@@ -1,0 +1,9 @@
+.footer {
+    text-align: center;
+    background-color: #86C3D8;
+    line-height: 50px;
+    width: 100%;
+  }
+  .footer p {
+    color: #47484a;
+  }
